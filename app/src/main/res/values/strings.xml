@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Practica2LRBL</string>
+
+    <string-array name="sneakerBrands">
+        <item>"Adidas"</item>
+        <item>"Jordan"</item>
+        <item>"Nike"</item>
+        <item>"Yeezy"</item>
+    </string-array>
+
+    <string-array name="sneakerSizes">
+        <item>"5"</item>
+        <item>"5.5"</item>
+        <item>"6"</item>
+        <item>"6.5"</item>
+        <item>"7"</item>
+        <item>"7.5"</item>
+        <item>"8"</item>
+        <item>"8.5"</item>
+        <item>"9"</item>
+        <item>"9.5"</item>
+    </string-array>
+
+</resources>
